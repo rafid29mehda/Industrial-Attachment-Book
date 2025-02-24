@@ -399,7 +399,7 @@ These dashboards and alerts provide real-time insights into the application's pe
 
 ### 7.1 Using Terraform for Resource Management
 
-We chose Terraform to manage our infrastructure as code. This allows us to version control our infrastructure and ensure consistency across environments.
+We chose Terraform to manage the infrastructure as code. This allows us to version control our infrastructure and ensure consistency across environments.
 
 Our main Terraform configuration for GKE:
 
