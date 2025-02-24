@@ -2,7 +2,7 @@
 
 ## INDUSTRIAL ATTACHMENT REPORT
 
-A Report Submitted in Partial Fulfillment of the Requirements for the Award of Degree of BACHELOR OF SCIENCE in COMPUTER SCIENCE AND ENGINEERING
+The Report Submitted in Partial Fulfillment of the Requirements for the Award of Degree of BACHELOR OF SCIENCE in COMPUTER SCIENCE AND ENGINEERING
 
 By
 [Your Name]
